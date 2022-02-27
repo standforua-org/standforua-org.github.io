@@ -47,8 +47,5 @@ PLANNED KICK OFF:
 - 27 February 9:30
 
 #help
-----------------------
 #volunteerwork
-----------------------
 #supportukraine
-----------------------
