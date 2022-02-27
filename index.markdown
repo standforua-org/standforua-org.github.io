@@ -6,23 +6,43 @@ layout: default
 ---
 
 # Stand for UA
+My name is Vitalii Tryus (https://www.linkedin.com/in/vitaliitryus/). I am now looking to set up a FULL TIME development team to work on the below project.
 
-Hello all, I am looking for IT specialists who can volunteer to work with me minimum 2-3 hours a day in order to develop centralized P2P “Help For Ukraine” platfrom. Working time is flexible but it should be feasible to have a daily 30 minutes call at 9:30 CET time.
-
-There are a lot of people in different EU countries who want to help, who can organize things, who can transfer things to Ukraine and people who need help in various forms (housing, transportation, food, clothes, etc.). Currently this happens in the endless Facebook/Instagram discussions but this is not organized. Individual activists across EU do not have a good software tailored to solve current urgent needs.
-
-Focus of the platfrom will be to connect different people to support:
-- EU to Ukriane goods movement
-- support need of ukrainian refugees in EU
-
-Currently I am looking for:
-- 4 Senior Fullstack Engineers
+CURRENT URGENT NEEDs:
 - 1 Senior DevOps
-- 1 Senior UI/UX specialist
-- 2 QA people
+- 2 Seinor Full Stack engineers
 
-I would like to start working on this idea tomorrow.
+Please DM me in LinkedIn if you are ready to participate. 
+If you can't participate but share.
 
-Please DM me if you are ready to participate.
+#help #volunteerwork #supportukraine
+----------------------
+PRODUCT OVERVIEW
+----------------------
+PROBLEM STATEMENT:
+- On one side there are a lot of people in different EU countries who want to help, who can organize things, who can transfer things to Ukrainian border and beyond it. On the other side, there are ukrainian people who need help in various forms (housing, transportation, food, clothes, money, etc.) who already crossed the broder with EU and the ones who are still fighting in Ukraine. Currently coordination to connect both side, as well as somehow manage needs, quantities, who is covering what happens in the endless Facebook/Instagram discussions that is not efficient. Individual activists across EU do not have a good software tailored to solve current urgent needs.
 
-If you can't participate but like the idea - PLEASE REPOST!
+IDEA:
+- Impement a web platform that:
+a) connects people who want to donate any type of goods (clothes, towels, dishes, electronics, food, stationery, etc.) with self-organized activits who collect goods and coordinate logistics to either distribute it locally or move things to Ukrainian border or Ukraine directly
+b) connects people who want to offer services like transportation, help in warehouses etc. as per the needs of self-organized activits
+c) connects EU people (as well as self-organized activits) with ukrainian refugees to capture their current needs and provide immedaite help
+d) connects self-organized activits in Ukraine who help army and civil people with self-organized EU activits to better capture their needs and fulfill them
+
+TECHNOLOGIES:
+- Frontend: Material UI, Angular
+- Backend: NodeJS
+- Database: Most likely AWS RDS (TBD)
+- UI/UX stack: Figma
+- DevOps: (TBD)
+
+PLANNED INITIAL TEAM SET UP:
+- 1 Project Lead (me)
+- 1 SA
+- 1 UX/UI
+- 1 DevOps
+- 4 Senior Full Stack Engineers
+- 2 QA
+
+PLANNED KICK OFF:
+- 27 February 9:30
