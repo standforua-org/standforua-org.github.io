@@ -6,10 +6,10 @@ layout: default
 ---
 
 # Stand for UA
-My name is Vitalii Tryus (https://www.linkedin.com/in/vitaliitryus/). I am now working with a great team of IT volunteers (20 peoplecurrently) accross the world on the below product.
+My name is Vitalii Tryus {% link https://www.linkedin.com/in/vitaliitryus/ %}. I am now working with a great team of IT volunteers (20 peoplecurrently) accross the world on the below product.
 
-CURRENT URGENT NEEDs:
-----------------------
+CURRENT URGENT TEAM NEEDs:
+--------------------------
 - Senior QA
 
 Please DM me in LinkedIn or write to vitalii@standforua.org if you are ready to participate. If you can't participate but like the idea, please share this webstie with others.
