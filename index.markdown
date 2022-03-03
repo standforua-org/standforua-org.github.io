@@ -6,15 +6,18 @@ layout: default
 ---
 
 # Stand for UA
-My name is Vitalii Tryus (https://www.linkedin.com/in/vitaliitryus/). I am now looking to set up a FULL TIME development team to work on the below product.
+My name is Vitalii Tryus (https://www.linkedin.com/in/vitaliitryus/). I am now working with a great team of IT volunteers (20 peoplecurrently) accross the world on the below product.
 
 CURRENT URGENT NEEDs:
 ----------------------
-- 1 Senior DevOps
-- 2 Seinor Full Stack engineers
+- Senior QA
 
-Please DM me in LinkedIn or write to vitalii@standforua.org if you are ready to participate. 
-If you can't participate but share.
+Please DM me in LinkedIn or write to vitalii@standforua.org if you are ready to participate. If you can't participate but like the idea, please share this webstie with others.
+
+PLANNED GO LIVE
+----------------------
+- March 11
+
 
 PRODUCT OVERVIEW
 ----------------------
@@ -28,23 +31,50 @@ Impement a web platform that
 - connects EU people (as well as self-organized activits) with ukrainian refugees to capture their current needs and provide immedaite help
 - connects self-organized activits in Ukraine who help army and civil people with self-organized EU activits to better capture their needs and fulfill them
 
-TECHNOLOGIES:
-- Frontend: Material UI, Angular
-- Backend: NodeJS
-- Database: Most likely AWS RDS (TBD)
-- UI/UX stack: Figma
-- DevOps: (TBD)
+CURRENT TEAM SET UP
+-------------------
+- Everyone - 21
+- Product - 2
+- QA - 2
+- UX - 6
+- Frontend - 4
+- Backend - 3
+- DevOps - 3
 
-PLANNED INITIAL TEAM SET UP:
-- 1 Project Lead (me)
-- 1 SA
-- 1 UX/UI
-- 1 DevOps
-- 4 Senior Full Stack Engineers
-- 2 QA
+CURRENT TEAM WORKING MODE
+-------------------------
+- Day: 7 days a week
+- Time: As per individul availability
+- Scheduled Meetings:
+  - 9:30 Gemran time: Morning catch up
+  - 18:00 Gemran time: Evening catch up
 
-PLANNED KICK OFF:
-- 27 February 9:30
+
+TECH STACK & TOOLS
+------------------
+- Everyone
+  - Slack
+  - GoogleMeet
+- Product
+  - Miro (free plan as we know they have Russian roots)
+  - JIRA
+- QA
+  - Cypress
+- UX
+  - Figma
+- Frontend
+  - React (Next JS)
+  - Chakra UI component library (Figma Link)
+  - Jest (Unit Testing)
+- Backend
+  - NodeJS (Framework TBD)
+  - Docker
+  - Fargate
+- DevOps
+  - Google Domains
+  - AWS
+  - GitHub + GitHub Actions
+  - Terraform
 
 #help
 #volunteerwork
