@@ -29,7 +29,7 @@ Implement a web platform that
 - connects people who want to donate any type of goods (clothes, towels, dishes, electronics, food, stationery, etc.) with self-organized volunteers who collect goods and coordinate logistics to either distribute them locally or move things to the Ukrainian border or Ukraine directly
 - connects people who want to offer services like transportation, help in warehouses, etc. as per the needs of self-organized volunteers
 - connects EU people (as well as self-organized volunteers) with Ukrainian refugees to capture their current needs and provide immediate help
-- connects self-organized volunteers in Ukraine who help army and civil people with self-organized EU volunteers to better capture their needs and fulfill them
+- connects self-organized volunteers in Ukraine who help army and civil people with self-organized EU volunteers to better capture their needs and fulfil them
 
 CURRENT TEAM SET UP
 -------------------
