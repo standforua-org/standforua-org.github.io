@@ -21,7 +21,7 @@
 title: Stand for UA
 email: vitalii@standforua.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Platform that helps to connect volunteers with caring people to efficiently fulfill needs of ukrainians that suffer from Russia invasion
+  A platform that helps to connect volunteers with caring people to efficiently fulfil the needs of Ukrainians that suffer from Russia’s invasion
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.standforua.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
