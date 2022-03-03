@@ -75,6 +75,7 @@ TECH STACK & TOOLS
   - AWS
   - GitHub + GitHub Actions
   - Terraform
+  - NX (for monorepo management)
 
 #help
 #volunteerwork
