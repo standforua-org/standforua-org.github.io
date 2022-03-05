@@ -19,16 +19,6 @@ OPEN ROLES:
 - Middle/Senior Backend Engineer
 - Middle/Senior DevOps
 
-CURRENT TEAM WORKING MODE
--------------------------
-- Day: 7 days a week
-- Time: As per individul availability
-- Scheduled Meetings:
-  - 9:30 Gemran time: Morning catch up
-  - 18:00 Gemran time: Evening catch up
-  - Participation: at least 1 representative from every team
-
-
 TECH STACK & TOOLS
 ------------------
 - Everyone
@@ -55,6 +45,15 @@ TECH STACK & TOOLS
   - GitHub + GitHub Actions
   - Terraform
   - NX (for monorepo management)
+
+CURRENT TEAM WORKING MODE
+-------------------------
+- Day: 7 days a week
+- Time: As per individul availability
+- Scheduled Meetings:
+  - 9:30 Gemran time: Morning catch up
+  - 18:00 Gemran time: Evening catch up
+  - Participation: at least 1 representative from every team
 
 PRODUCT OVERVIEW
 ----------------------
