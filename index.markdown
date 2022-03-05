@@ -6,9 +6,9 @@ layout: default
 ---
 
 # Stand for UA
-My name is Vitalii Tryus {https://www.linkedin.com/in/vitaliitryus/}. I am working with a great team of IT volunteers across the world to deliver as fast as possible the first version of the platform which will help to support Ukrainians that suffer from Russia's invasion.
+My name is Vitalii Tryus {https://www.linkedin.com/in/vitaliitryus/}. I am working with a great team of IT volunteers across the world to deliver the platform which will help to support Ukrainians that suffer from Russia's invasion.
 
-We want to scale our teams in order to be faster in what we do because the majority of us work part-time. If you are interested to join the project in one of the below roles Please DM me on LinkedIn or write to vitalii@standforua.org. If you can't participate but like the initiative, please share this message with your networks.
+Currently, we are a team of 20+ people but this is not enough. We want to scale our teams in order to be faster in what we do because the majority of us work part-time. If you are interested to join a meaningful project and work side-by-side with great tech professionals in one of the below roles, please DM me on https://www.linkedin.com/in/vitaliitryus/ or write to vitalii@standforua.org. If you can't participate but like the initiative, please share this message with your networks.
 
 OPEN ROLES:
 --------------------------
