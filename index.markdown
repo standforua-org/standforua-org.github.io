@@ -14,7 +14,7 @@ OPEN ROLES:
 --------------------------
 - Middle/Senior Product Owner
 - Middle/Senior QA
-- Middle/Senior UX
+- Middle/Senior UX/UI
 - Middle/Senior Frontend Engineer
 - Middle/Senior Backend Engineer
 - Middle/Senior DevOps
@@ -39,7 +39,7 @@ TECH STACK & TOOLS
   - JIRA
 - QA
   - Cypress
-- UX
+- UX/UI
   - Figma
 - Frontend
   - React (Next JS)
