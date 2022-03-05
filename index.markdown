@@ -10,7 +10,7 @@ https://www.linkedin.com/company/standforua
 
 My name is Vitalii Tryus. I am working with a great team of IT volunteers across the world to deliver the platform which will help to support Ukrainians that suffer from Russia's invasion.
 
-Currently, we are a team of 20+ people but this is not enough. We want to scale our teams in order to be faster in what we do because the majority of us work part-time. If you are interested to join a meaningful project and work side-by-side with great tech professionals in one of the below roles, please DM me on https://www.linkedin.com/in/vitaliitryus/ or write to vitalii@standforua.org. If you can't participate but like the initiative, please share this message with your networks.
+Currently, we are a team of 20+ people but this is not enough. We want to scale our teams in order to be faster in what we do because the majority of us work part-time. If you are interested to join a meaningful project and work side-by-side with great tech professionals in one of the below roles, please DM me on https://www.linkedin.com/in/vitaliitryus/ or write to work@standforua.org. If you can't participate but like the initiative, please share this message with your networks.
 
 OPEN ROLES:
 --------------------------
