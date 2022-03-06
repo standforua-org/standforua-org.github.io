@@ -43,7 +43,7 @@ TECH STACK & TOOLS
   - Fargate
 - DevOps
   - Google Domains
-  - AWS
+  - AWS (RDS, S3, Cloudfront, ECR, VPC, ECS)
   - GitHub + GitHub Actions
   - Terraform
   - NX (for monorepo management)
