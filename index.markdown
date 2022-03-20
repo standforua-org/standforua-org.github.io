@@ -54,9 +54,9 @@ TECH STACK & TOOLS
 CURRENT TEAM WORKING MODE
 -------------------------
 - Time: 
-  -  As per individual availability but minimum 15-30 minutes a day to catch up on Slack communications + minimum 4 hours a week of hands on project contribution
+  - As per individual availability but minimum 15-30 minutes a day to catch up on Slack communications + minimum 4 hours a week of hands on project contribution
 - Scheduled Meetings:
-  - 18:00 Gemran time: Evening catch up
+  - Evening catch up at 18:00 Gemran time (participation is optional)
 
 PRODUCT OVERVIEW
 ----------------------
