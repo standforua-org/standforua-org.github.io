@@ -10,16 +10,17 @@ https://www.linkedin.com/company/standforua
 
 My name is Vitalii Tryus. I am working with a great team of IT volunteers across the world to deliver the platform which will help to support Ukrainians that suffer from Russia's invasion.
 
-Currently, we are a team of 20+ people but this is not enough. We want to scale our teams in order to be faster in what we do because the majority of us work part-time. If you are interested to join a meaningful project and work side-by-side with great tech professionals in one of the below roles, please DM me on https://www.linkedin.com/in/vitaliitryus/ or write to work@standforua.org. If you can't participate but like the initiative, please share it with your networks.
+Currently, we are a team of more than 35 people but this is not enough. We want to scale our teams in order to be faster in what we do because the majority of us work part-time. If you are interested to join a meaningful project and work side-by-side with great tech professionals in one of the below roles, please DM me on https://www.linkedin.com/in/vitaliitryus/ or write to work@standforua.org. If you can't participate but like the initiative, please share it with your networks.
 
 OPEN ROLES:
 --------------------------
-- Middle/Senior Product Owner
+- Middle/Senior Solution Architect
+- Middle/Senior DevOps
 - Middle/Senior QA
+- Middle/Senior Product Owner
 - Middle/Senior UX/UI
 - Middle/Senior Frontend Engineer
 - Middle/Senior Backend Engineer
-- Middle/Senior DevOps
 
 TECH STACK & TOOLS
 ------------------
@@ -36,26 +37,26 @@ TECH STACK & TOOLS
 - Frontend
   - React (Next JS)
   - Chakra UI component library (Figma Link)
-  - Jest (Unit Testing)
+  - Jest + React Testing (Unit + Integration Testing)
+  - Cypress (e2e tests)
+  - Storybook (documentation on the components)
 - Backend
-  - NodeJS (Framework TBD)
+  - NodeJS (Framework https://loopback.io/doc/en/lb4/)
   - Docker
   - Fargate
 - DevOps
   - Google Domains
-  - AWS (RDS, S3, Cloudfront, ECR, VPC, ECS)
+  - AWS (Aurora, S3, Cloudfront, ECR, VPC, ECS)
   - GitHub + GitHub Actions
   - Terraform
   - NX (for monorepo management)
 
 CURRENT TEAM WORKING MODE
 -------------------------
-- Day: 7 days a week
-- Time: As per individul availability
+- Time: 
+  -  As per individual availability but minimum 15-30 minutes a day to catch up on Slack communications + minimum 4 hours a week of hands on project contribution
 - Scheduled Meetings:
-  - 9:30 Gemran time: Morning catch up
   - 18:00 Gemran time: Evening catch up
-  - Participation: at least 1 representative from every team
 
 PRODUCT OVERVIEW
 ----------------------
