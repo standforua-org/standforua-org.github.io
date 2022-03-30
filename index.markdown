@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Stand for UA
+# StandForUA
 https://www.linkedin.com/company/standforua
 
 My name is Vitalii Tryus. I am working with a great team of IT volunteers across the world to deliver the platform which will help to support Ukrainians that suffer from Russia's invasion.
@@ -68,6 +68,7 @@ Implement a web platform that
 - connects Ukrainian refugees with caring people who are living close to their current location, so that they can receive immediate help
 - connects self-organized volunteers and bigger volunteering organizations with caring people outside of Ukraine, to efficiently collect goods and coordinate logistics to either distribute them locally or move things to the Ukrainian border or Ukraine directly
 - connects self-organized volunteers in Ukraine who help army and civil people with self-organized EU volunteers to better capture their needs and fulfill them
+
 #help
 #volunteerwork
 #supportukraine
