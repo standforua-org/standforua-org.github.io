@@ -36,10 +36,11 @@ TECH STACK & TOOLS
   - Figma
 - Frontend
   - React (Next JS)
-  - Chakra UI component library (Figma Link)
+  - https://chakra-ui.com/ component library (Figma Link)
   - Jest + React Testing (Unit + Integration Testing)
-  - Cypress (e2e tests)
-  - Storybook (documentation on the components)
+  - https://www.cypress.io/ (e2e tests)
+  - https://storybook.js.org/ (documentation on the components)
+  - https://nx.dev/ (for monorepo management)
 - Backend
   - NodeJS (Framework https://loopback.io/doc/en/lb4/)
   - Docker
@@ -49,7 +50,6 @@ TECH STACK & TOOLS
   - AWS (Aurora, S3, Cloudfront, ECR, VPC, ECS)
   - GitHub + GitHub Actions
   - Terraform
-  - NX (for monorepo management)
 
 CURRENT TEAM WORKING MODE
 -------------------------
